@@ -7,6 +7,12 @@ body{
 
 #cabecera{
     border: rgb(255, 0, 162) 2px solid;
+    box-shadow: 60px -16px rgb(114, 215, 215);
+    background-color: rgb(249, 247, 245);
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#imagen-gato{
+    width: 80px; height: 80px;
 }
