@@ -4,3 +4,9 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+#cabecera{
+    border: rgb(255, 0, 162) 2px solid;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
