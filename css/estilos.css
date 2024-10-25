@@ -2,9 +2,6 @@ body{
     color: blueviolet;
     background-color: floralwhite;
     text-align: center;
-<<<<<<< HEAD
-    font-family:serif;
-=======
 }
 
 #cabecera{
@@ -17,5 +14,4 @@ body{
 
 #imagen-gato{
     width: 80px; height: 80px;
->>>>>>> cabecera
 }
