@@ -1,17 +1,17 @@
 body{
-    color: rgb(245, 8, 158);
+    color: rgb(252, 250, 251);
     background-color: floralwhite;
     text-align: center;
 }
 
 #cabecera{
-    border: rgb(255, 0, 162) 2px solid;
-    box-shadow: 60px -16px rgb(114, 215, 215);
-    background-color: rgb(249, 247, 245);
+    border: rgb(129, 40, 96) 2px solid;
+    box-shadow: 60px -16px rgb(46, 176, 176);
+    background-color: rgb(231, 106, 106);
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-#imagen-gato{
+#abanico{
     width: 80px; height: 80px;
 }
